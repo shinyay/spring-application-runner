@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class CmdrunnerApplication
+class AppRunnerApplication
 
 fun main(args: Array<String>) {
-	runApplication<CmdrunnerApplication>(*args)
+	runApplication<AppRunnerApplication>(*args)
 }
