@@ -1,4 +1,4 @@
-package io.pivotal.shinyay.cmdrunner
+package io.pivotal.shinyay
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
